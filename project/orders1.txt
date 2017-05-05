@@ -1,0 +1,126 @@
+Order S White
+Order SE White
+Order SES White
+Order SEL White
+Picker Alice ready
+Picker Alice pick 1
+Picker Alice pick wrong 2
+Picker Alice pick 2
+Picker Alice pick 3
+Picker Alice pick 4
+Picker Alice pick 5
+Picker Alice pick 6
+Picker Alice pick 7
+Picker Alice pick 8
+Order S Beige
+Order SE Beige
+Order SES Beige
+Order SEL Beige
+Sequencer Sue ready
+Sequencer Sue sequences 1
+Sequencer Sue sequences 2
+Sequencer Sue sequences 3
+Sequencer Sue sequences 4
+Sequencer Sue sequences 5
+Sequencer Sue sequences 6
+Sequencer Sue sequences 7
+Sequencer Sue sequences 8
+Picker Bob ready
+Picker Bob pick 9
+Picker Bob pick 10
+Picker Bob pick 11
+Picker Bob pick 12
+Picker Bob pick 13
+Picker Bob pick 14
+Picker Bob pick 15
+Picker Bob pick 16
+Picker Bob ready
+Order S Red
+Order SE Red
+Order SES Red
+Order SEL Red
+Picker Alice ready
+Picker Alice pick 17
+Picker Alice pick 18
+Picker Alice pick 19
+Picker Alice pick 20
+Picker Alice pick 21
+Picker Alice pick 22
+Picker Alice pick 23
+Picker Alice pick 24
+Sequencer Sue ready
+Sequencer Sue sequences 9
+Sequencer Sue sequences 10
+Sequencer Sue sequences 11
+Sequencer Sue sequences 12
+Sequencer Sue sequences 13
+Sequencer Sue sequences 14
+Sequencer Sue sequences 15
+Sequencer Sue sequences 16
+Sequencer Sue ready
+Sequencer Sue sequences 17
+Sequencer Sue sequences 18
+Sequencer Sue sequences 19
+Sequencer Sue sequences 20
+Sequencer Sue sequences 21
+Sequencer Sue sequences 22
+Sequencer Sue sequences 23
+Sequencer Sue sequences 24
+Order S Green
+Order SE Green
+Order SES Green
+Order SEL Green
+Picker Bob ready
+Picker Bob pick 25
+Picker Bob pick 26
+Picker Bob pick 27
+Picker Bob pick 28
+Picker Bob pick 29
+Picker Bob pick 30
+Picker Bob pick 31
+Picker Bob pick 32
+Sequencer Sue ready
+Sequencer Sue sequences 25
+Sequencer Sue sequences 27
+Sequencer Sue sequences 29
+Sequencer Sue sequences 31
+Sequencer Sue sequences 26
+Sequencer Sue sequences 28
+Sequencer Sue sequences 30
+Sequencer Sue sequences 32
+Loader Bill ready
+Loader Bill loads 1
+Loader Bill loads 3
+Loader Bill loads 5
+Loader Bill loads 7
+Loader Bill loads 2
+Loader Bill loads 4
+Loader Bill loads 6
+Loader Bill loads 8
+Loader Bill ready
+Loader Bill loads 9
+Loader Bill loads 11
+Loader Bill loads 13
+Loader Bill loads 15
+Loader Bill loads 10
+Loader Bill loads 12
+Loader Bill loads 14
+Loader Bill loads 16
+Loader Bill ready
+Loader Bill loads 17
+Loader Bill loads 19
+Loader Bill loads 21
+Loader Bill loads 23
+Loader Bill loads 18
+Loader Bill loads 20
+Loader Bill loads 22
+Loader Bill loads 24
+Loader Bill ready
+Loader Bill loads 25
+Loader Bill loads 27
+Loader Bill loads 29
+Loader Bill loads 31
+Loader Bill loads 26
+Loader Bill loads 28
+Loader Bill loads 30
+Loader Bill loads 32

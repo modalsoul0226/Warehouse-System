@@ -1,0 +1,1049 @@
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Order S White
+
+三月 30, 2017 3:39:06 上午 simulation.Order <init>
+INFO: System has received an order: White,S,1,2.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Order SE White
+
+三月 30, 2017 3:39:06 上午 simulation.Order <init>
+INFO: System has received an order: White,SE,3,4.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Order SES White
+
+三月 30, 2017 3:39:06 上午 simulation.Order <init>
+INFO: System has received an order: White,SES,5,6.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Order SEL White
+
+三月 30, 2017 3:39:06 上午 simulation.Order <init>
+INFO: System has received an order: White,SEL,7,8.
+
+三月 30, 2017 3:39:06 上午 simulation.Request <init>
+INFO: Request: HJ6P3UN generated
+
+三月 30, 2017 3:39:06 上午 simulation.Request <init>
+INFO: Request: HJ6P3UN generated
+
+三月 30, 2017 3:39:06 上午 simulation.Request <init>
+INFO: Request: HJ6P3UN generated
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Picker Alice ready
+
+三月 30, 2017 3:39:06 上午 simulation.Picker <init>
+INFO: Picker Alice is ready for picking request.
+
+三月 30, 2017 3:39:06 上午 simulation.WarehouseSystem getWorkerReady
+INFO: Picker Alice is ready.
+
+三月 30, 2017 3:39:06 上午 simulation.Picker receiveTask
+INFO: Picker Alice has received the request: HJ6P3UN.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Picker Alice pick 1
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Picker Alice: pick 1 in A000.
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Replenisher is ready to replenish A000,
+
+三月 30, 2017 3:39:06 上午 simulation.Warehouse getReplenished
+INFO: Location A000 has been replenished.
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Picker Alice has picked the fascia with SKU number: 1
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Picker Alice pick wrong 2
+
+三月 30, 2017 3:39:06 上午 simulation.Picker pickWrong
+INFO: Picker Alice has picked the wrong fascia with skuNum 22 instead of 2 in A001 
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Picker Alice pick 2
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Picker Alice: pick 2 in A001.
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Replenisher is ready to replenish A001,
+
+三月 30, 2017 3:39:06 上午 simulation.Warehouse getReplenished
+INFO: Location A001 has been replenished.
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Picker Alice has picked the fascia with SKU number: 2
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Picker Alice pick 3
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Picker Alice: pick 3 in A002.
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Replenisher is ready to replenish A002,
+
+三月 30, 2017 3:39:06 上午 simulation.Warehouse getReplenished
+INFO: Location A002 has been replenished.
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Picker Alice has picked the fascia with SKU number: 3
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Picker Alice pick 4
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Picker Alice: pick 4 in A003.
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Replenisher is ready to replenish A003,
+
+三月 30, 2017 3:39:06 上午 simulation.Warehouse getReplenished
+INFO: Location A003 has been replenished.
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Picker Alice has picked the fascia with SKU number: 4
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Picker Alice pick 5
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Picker Alice: pick 5 in A010.
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Replenisher is ready to replenish A010,
+
+三月 30, 2017 3:39:06 上午 simulation.Warehouse getReplenished
+INFO: Location A010 has been replenished.
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Picker Alice has picked the fascia with SKU number: 5
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Picker Alice pick 6
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Picker Alice: pick 6 in A011.
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Picker Alice has picked the fascia with SKU number: 6
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Picker Alice pick 7
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Picker Alice: pick 7 in A012.
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Picker Alice has picked the fascia with SKU number: 7
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Picker Alice pick 8
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Picker Alice: pick 8 in A013.
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Picker Alice has picked the fascia with SKU number: 8
+
+三月 30, 2017 3:39:06 上午 simulation.Picker moveToNextStage
+INFO: Picker Alice  finished picking and moved the request. HJ6P3UN to the marshalling area.
+
+三月 30, 2017 3:39:06 上午 simulation.Picker moveToNextStage
+INFO: Picker Alice is ready for the next picking request.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Order S Beige
+
+三月 30, 2017 3:39:06 上午 simulation.Order <init>
+INFO: System has received an order: Beige,S,9,10.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Order SE Beige
+
+三月 30, 2017 3:39:06 上午 simulation.Order <init>
+INFO: System has received an order: Beige,SE,11,12.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Order SES Beige
+
+三月 30, 2017 3:39:06 上午 simulation.Order <init>
+INFO: System has received an order: Beige,SES,13,14.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Order SEL Beige
+
+三月 30, 2017 3:39:06 上午 simulation.Order <init>
+INFO: System has received an order: Beige,SEL,15,16.
+
+三月 30, 2017 3:39:06 上午 simulation.Request <init>
+INFO: Request: 6H5UYLR generated
+
+三月 30, 2017 3:39:06 上午 simulation.Request <init>
+INFO: Request: 6H5UYLR generated
+
+三月 30, 2017 3:39:06 上午 simulation.Request <init>
+INFO: Request: 6H5UYLR generated
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Sequencer Sue ready
+
+三月 30, 2017 3:39:06 上午 simulation.Sequencer <init>
+INFO: Sequencer Sue is ready for sequencing.
+
+三月 30, 2017 3:39:06 上午 simulation.WarehouseSystem getWorkerReady
+INFO: Sequencer Sue is ready.
+
+三月 30, 2017 3:39:06 上午 simulation.Sequencer receiveTask
+INFO: Sequencer Sue receives the 8 fascia with requestID: HJ6P3UN.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Sequencer Sue sequences 1
+
+三月 30, 2017 3:39:06 上午 simulation.Sequencer work
+INFO: Correct! Front fascia: 1 is scanned and sequenced.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Sequencer Sue sequences 2
+
+三月 30, 2017 3:39:06 上午 simulation.Sequencer work
+INFO: Correct! Front fascia: 3 is scanned and sequenced.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Sequencer Sue sequences 3
+
+三月 30, 2017 3:39:06 上午 simulation.Sequencer work
+INFO: Correct! Front fascia: 5 is scanned and sequenced.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Sequencer Sue sequences 4
+
+三月 30, 2017 3:39:06 上午 simulation.Sequencer work
+INFO: Correct! Rear fascia: 7 is scanned and sequenced.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Sequencer Sue sequences 5
+
+三月 30, 2017 3:39:06 上午 simulation.Sequencer work
+INFO: Correct! Rear fascia: 2 is scanned and sequenced.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Sequencer Sue sequences 6
+
+三月 30, 2017 3:39:06 上午 simulation.Sequencer work
+INFO: Correct! Rear fascia: 4 is scanned and sequenced.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Sequencer Sue sequences 7
+
+三月 30, 2017 3:39:06 上午 simulation.Sequencer work
+INFO: Correct! Rear fascia: 6 is scanned and sequenced.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Sequencer Sue sequences 8
+
+三月 30, 2017 3:39:06 上午 simulation.Sequencer work
+INFO: Correct! Rear fascia: 8 is scanned and sequenced.
+
+三月 30, 2017 3:39:06 上午 simulation.Sequencer moveToNextStage
+INFO: Sequencer Sue finished sequencing and moved the request HJ6P3UN to the loading area.
+
+三月 30, 2017 3:39:06 上午 simulation.Sequencer moveToNextStage
+INFO: Sequencer Sue is ready for another sequencing request.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Picker Bob ready
+
+三月 30, 2017 3:39:06 上午 simulation.Picker <init>
+INFO: Picker Bob is ready for picking request.
+
+三月 30, 2017 3:39:06 上午 simulation.WarehouseSystem getWorkerReady
+INFO: Picker Bob is ready.
+
+三月 30, 2017 3:39:06 上午 simulation.Picker receiveTask
+INFO: Picker Bob has received the request: 6H5UYLR.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Picker Bob pick 9
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Picker Bob: pick 9 in A020.
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Picker Bob has picked the fascia with SKU number: 9
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Picker Bob pick 10
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Picker Bob: pick 10 in A021.
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Picker Bob has picked the fascia with SKU number: 10
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Picker Bob pick 11
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Picker Bob: pick 11 in A022.
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Picker Bob has picked the fascia with SKU number: 11
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Picker Bob pick 12
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Picker Bob: pick 12 in A023.
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Picker Bob has picked the fascia with SKU number: 12
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Picker Bob pick 13
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Picker Bob: pick 13 in A100.
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Picker Bob has picked the fascia with SKU number: 13
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Picker Bob pick 14
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Picker Bob: pick 14 in A101.
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Picker Bob has picked the fascia with SKU number: 14
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Picker Bob pick 15
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Picker Bob: pick 15 in A102.
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Picker Bob has picked the fascia with SKU number: 15
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Picker Bob pick 16
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Picker Bob: pick 16 in A103.
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Picker Bob has picked the fascia with SKU number: 16
+
+三月 30, 2017 3:39:06 上午 simulation.Picker moveToNextStage
+INFO: Picker Bob  finished picking and moved the request. 6H5UYLR to the marshalling area.
+
+三月 30, 2017 3:39:06 上午 simulation.Picker moveToNextStage
+INFO: Picker Bob is ready for the next picking request.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Picker Bob ready
+
+三月 30, 2017 3:39:06 上午 simulation.WarehouseSystem getWorkerReady
+INFO: System Message: No request is generated now.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Order S Red
+
+三月 30, 2017 3:39:06 上午 simulation.Order <init>
+INFO: System has received an order: Red,S,17,18.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Order SE Red
+
+三月 30, 2017 3:39:06 上午 simulation.Order <init>
+INFO: System has received an order: Red,SE,19,20.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Order SES Red
+
+三月 30, 2017 3:39:06 上午 simulation.Order <init>
+INFO: System has received an order: Red,SES,21,22.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Order SEL Red
+
+三月 30, 2017 3:39:06 上午 simulation.Order <init>
+INFO: System has received an order: Red,SEL,23,24.
+
+三月 30, 2017 3:39:06 上午 simulation.Request <init>
+INFO: Request: 65GQJ2S generated
+
+三月 30, 2017 3:39:06 上午 simulation.Request <init>
+INFO: Request: 65GQJ2S generated
+
+三月 30, 2017 3:39:06 上午 simulation.Request <init>
+INFO: Request: 65GQJ2S generated
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Picker Alice ready
+
+三月 30, 2017 3:39:06 上午 simulation.WarehouseSystem getWorkerReady
+INFO: Picker Alice is ready.
+
+三月 30, 2017 3:39:06 上午 simulation.Picker receiveTask
+INFO: Picker Alice has received the request: 65GQJ2S.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Picker Alice pick 17
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Picker Alice: pick 17 in A110.
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Picker Alice has picked the fascia with SKU number: 17
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Picker Alice pick 18
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Picker Alice: pick 18 in A111.
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Picker Alice has picked the fascia with SKU number: 18
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Picker Alice pick 19
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Picker Alice: pick 19 in A112.
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Picker Alice has picked the fascia with SKU number: 19
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Picker Alice pick 20
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Picker Alice: pick 20 in A113.
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Picker Alice has picked the fascia with SKU number: 20
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Picker Alice pick 21
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Picker Alice: pick 21 in A120.
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Picker Alice has picked the fascia with SKU number: 21
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Picker Alice pick 22
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Picker Alice: pick 22 in A121.
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Picker Alice has picked the fascia with SKU number: 22
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Picker Alice pick 23
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Picker Alice: pick 23 in A122.
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Picker Alice has picked the fascia with SKU number: 23
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Picker Alice pick 24
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Picker Alice: pick 24 in A123.
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Picker Alice has picked the fascia with SKU number: 24
+
+三月 30, 2017 3:39:06 上午 simulation.Picker moveToNextStage
+INFO: Picker Alice  finished picking and moved the request. 65GQJ2S to the marshalling area.
+
+三月 30, 2017 3:39:06 上午 simulation.Picker moveToNextStage
+INFO: Picker Alice is ready for the next picking request.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Sequencer Sue ready
+
+三月 30, 2017 3:39:06 上午 simulation.WarehouseSystem getWorkerReady
+INFO: Sequencer Sue is ready.
+
+三月 30, 2017 3:39:06 上午 simulation.Sequencer receiveTask
+INFO: Sequencer Sue receives the 8 fascia with requestID: 6H5UYLR.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Sequencer Sue sequences 9
+
+三月 30, 2017 3:39:06 上午 simulation.Sequencer work
+INFO: Correct! Front fascia: 9 is scanned and sequenced.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Sequencer Sue sequences 10
+
+三月 30, 2017 3:39:06 上午 simulation.Sequencer work
+INFO: Correct! Front fascia: 11 is scanned and sequenced.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Sequencer Sue sequences 11
+
+三月 30, 2017 3:39:06 上午 simulation.Sequencer work
+INFO: Correct! Front fascia: 13 is scanned and sequenced.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Sequencer Sue sequences 12
+
+三月 30, 2017 3:39:06 上午 simulation.Sequencer work
+INFO: Correct! Rear fascia: 15 is scanned and sequenced.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Sequencer Sue sequences 13
+
+三月 30, 2017 3:39:06 上午 simulation.Sequencer work
+INFO: Correct! Rear fascia: 10 is scanned and sequenced.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Sequencer Sue sequences 14
+
+三月 30, 2017 3:39:06 上午 simulation.Sequencer work
+INFO: Correct! Rear fascia: 12 is scanned and sequenced.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Sequencer Sue sequences 15
+
+三月 30, 2017 3:39:06 上午 simulation.Sequencer work
+INFO: Correct! Rear fascia: 14 is scanned and sequenced.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Sequencer Sue sequences 16
+
+三月 30, 2017 3:39:06 上午 simulation.Sequencer work
+INFO: Correct! Rear fascia: 16 is scanned and sequenced.
+
+三月 30, 2017 3:39:06 上午 simulation.Sequencer moveToNextStage
+INFO: Sequencer Sue finished sequencing and moved the request 6H5UYLR to the loading area.
+
+三月 30, 2017 3:39:06 上午 simulation.Sequencer moveToNextStage
+INFO: Sequencer Sue is ready for another sequencing request.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Sequencer Sue ready
+
+三月 30, 2017 3:39:06 上午 simulation.WarehouseSystem getWorkerReady
+INFO: Sequencer Sue is ready.
+
+三月 30, 2017 3:39:06 上午 simulation.Sequencer receiveTask
+INFO: Sequencer Sue receives the 8 fascia with requestID: 65GQJ2S.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Sequencer Sue sequences 17
+
+三月 30, 2017 3:39:06 上午 simulation.Sequencer work
+INFO: Correct! Front fascia: 17 is scanned and sequenced.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Sequencer Sue sequences 18
+
+三月 30, 2017 3:39:06 上午 simulation.Sequencer work
+INFO: Correct! Front fascia: 19 is scanned and sequenced.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Sequencer Sue sequences 19
+
+三月 30, 2017 3:39:06 上午 simulation.Sequencer work
+INFO: Correct! Front fascia: 21 is scanned and sequenced.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Sequencer Sue sequences 20
+
+三月 30, 2017 3:39:06 上午 simulation.Sequencer work
+INFO: Correct! Rear fascia: 23 is scanned and sequenced.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Sequencer Sue sequences 21
+
+三月 30, 2017 3:39:06 上午 simulation.Sequencer work
+INFO: Correct! Rear fascia: 18 is scanned and sequenced.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Sequencer Sue sequences 22
+
+三月 30, 2017 3:39:06 上午 simulation.Sequencer work
+INFO: Correct! Rear fascia: 20 is scanned and sequenced.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Sequencer Sue sequences 23
+
+三月 30, 2017 3:39:06 上午 simulation.Sequencer work
+INFO: Correct! Rear fascia: 22 is scanned and sequenced.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Sequencer Sue sequences 24
+
+三月 30, 2017 3:39:06 上午 simulation.Sequencer work
+INFO: Correct! Rear fascia: 24 is scanned and sequenced.
+
+三月 30, 2017 3:39:06 上午 simulation.Sequencer moveToNextStage
+INFO: Sequencer Sue finished sequencing and moved the request 65GQJ2S to the loading area.
+
+三月 30, 2017 3:39:06 上午 simulation.Sequencer moveToNextStage
+INFO: Sequencer Sue is ready for another sequencing request.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Order S Green
+
+三月 30, 2017 3:39:06 上午 simulation.Order <init>
+INFO: System has received an order: Green,S,25,26.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Order SE Green
+
+三月 30, 2017 3:39:06 上午 simulation.Order <init>
+INFO: System has received an order: Green,SE,27,28.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Order SES Green
+
+三月 30, 2017 3:39:06 上午 simulation.Order <init>
+INFO: System has received an order: Green,SES,29,30.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Order SEL Green
+
+三月 30, 2017 3:39:06 上午 simulation.Order <init>
+INFO: System has received an order: Green,SEL,31,32.
+
+三月 30, 2017 3:39:06 上午 simulation.Request <init>
+INFO: Request: 25TDT6B generated
+
+三月 30, 2017 3:39:06 上午 simulation.Request <init>
+INFO: Request: 25TDT6B generated
+
+三月 30, 2017 3:39:06 上午 simulation.Request <init>
+INFO: Request: 25TDT6B generated
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Picker Bob ready
+
+三月 30, 2017 3:39:06 上午 simulation.WarehouseSystem getWorkerReady
+INFO: Picker Bob is ready.
+
+三月 30, 2017 3:39:06 上午 simulation.Picker receiveTask
+INFO: Picker Bob has received the request: 25TDT6B.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Picker Bob pick 25
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Picker Bob: pick 25 in B000.
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Picker Bob has picked the fascia with SKU number: 25
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Picker Bob pick 26
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Picker Bob: pick 26 in B001.
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Picker Bob has picked the fascia with SKU number: 26
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Picker Bob pick 27
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Picker Bob: pick 27 in B002.
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Picker Bob has picked the fascia with SKU number: 27
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Picker Bob pick 28
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Picker Bob: pick 28 in B003.
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Picker Bob has picked the fascia with SKU number: 28
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Picker Bob pick 29
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Picker Bob: pick 29 in B010.
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Picker Bob has picked the fascia with SKU number: 29
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Picker Bob pick 30
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Picker Bob: pick 30 in B011.
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Picker Bob has picked the fascia with SKU number: 30
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Picker Bob pick 31
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Picker Bob: pick 31 in B012.
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Picker Bob has picked the fascia with SKU number: 31
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Picker Bob pick 32
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Picker Bob: pick 32 in B013.
+
+三月 30, 2017 3:39:06 上午 simulation.Picker work
+INFO: Picker Bob has picked the fascia with SKU number: 32
+
+三月 30, 2017 3:39:06 上午 simulation.Picker moveToNextStage
+INFO: Picker Bob  finished picking and moved the request. 25TDT6B to the marshalling area.
+
+三月 30, 2017 3:39:06 上午 simulation.Picker moveToNextStage
+INFO: Picker Bob is ready for the next picking request.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Sequencer Sue ready
+
+三月 30, 2017 3:39:06 上午 simulation.WarehouseSystem getWorkerReady
+INFO: Sequencer Sue is ready.
+
+三月 30, 2017 3:39:06 上午 simulation.Sequencer receiveTask
+INFO: Sequencer Sue receives the 8 fascia with requestID: 25TDT6B.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Sequencer Sue sequences 25
+
+三月 30, 2017 3:39:06 上午 simulation.Sequencer work
+INFO: Correct! Front fascia: 25 is scanned and sequenced.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Sequencer Sue sequences 27
+
+三月 30, 2017 3:39:06 上午 simulation.Sequencer work
+INFO: Correct! Front fascia: 27 is scanned and sequenced.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Sequencer Sue sequences 29
+
+三月 30, 2017 3:39:06 上午 simulation.Sequencer work
+INFO: Correct! Front fascia: 29 is scanned and sequenced.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Sequencer Sue sequences 31
+
+三月 30, 2017 3:39:06 上午 simulation.Sequencer work
+INFO: Correct! Rear fascia: 31 is scanned and sequenced.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Sequencer Sue sequences 26
+
+三月 30, 2017 3:39:06 上午 simulation.Sequencer work
+INFO: Correct! Rear fascia: 26 is scanned and sequenced.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Sequencer Sue sequences 28
+
+三月 30, 2017 3:39:06 上午 simulation.Sequencer work
+INFO: Correct! Rear fascia: 28 is scanned and sequenced.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Sequencer Sue sequences 30
+
+三月 30, 2017 3:39:06 上午 simulation.Sequencer work
+INFO: Correct! Rear fascia: 30 is scanned and sequenced.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Sequencer Sue sequences 32
+
+三月 30, 2017 3:39:06 上午 simulation.Sequencer work
+INFO: Correct! Rear fascia: 32 is scanned and sequenced.
+
+三月 30, 2017 3:39:06 上午 simulation.Sequencer moveToNextStage
+INFO: Sequencer Sue finished sequencing and moved the request 25TDT6B to the loading area.
+
+三月 30, 2017 3:39:06 上午 simulation.Sequencer moveToNextStage
+INFO: Sequencer Sue is ready for another sequencing request.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Loader Bill ready
+
+三月 30, 2017 3:39:06 上午 simulation.Loader <init>
+INFO: Loader Bill is ready for loading.
+三月 30, 2017 3:39:06 上午 simulation.WarehouseSystem getWorkerReady
+INFO: Loader Bill is ready.
+
+三月 30, 2017 3:39:06 上午 simulation.Loader receiveTask
+INFO: Loader Bill receives the pallet with reqId: HJ6P3UN.
+
+三月 30, 2017 3:39:06 上午 simulation.Loader receiveTask
+INFO: Loader Bill receives the request HJ6P3UN.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Loader Bill loads 1
+
+三月 30, 2017 3:39:06 上午 simulation.Loader work
+INFO: Loader Bill has scanned the fascia 1.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Loader Bill loads 3
+
+三月 30, 2017 3:39:06 上午 simulation.Loader work
+INFO: Loader Bill has scanned the fascia 3.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Loader Bill loads 5
+
+三月 30, 2017 3:39:06 上午 simulation.Loader work
+INFO: Loader Bill has scanned the fascia 5.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Loader Bill loads 7
+
+三月 30, 2017 3:39:06 上午 simulation.Loader work
+INFO: Loader Bill has scanned the fascia 7.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Loader Bill loads 2
+
+三月 30, 2017 3:39:06 上午 simulation.Loader work
+INFO: Loader Bill has scanned the fascia 2.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Loader Bill loads 4
+
+三月 30, 2017 3:39:06 上午 simulation.Loader work
+INFO: Loader Bill has scanned the fascia 4.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Loader Bill loads 6
+
+三月 30, 2017 3:39:06 上午 simulation.Loader work
+INFO: Loader Bill has scanned the fascia 6.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Loader Bill loads 8
+
+三月 30, 2017 3:39:06 上午 simulation.Loader work
+INFO: Loader Bill has scanned the fascia 8.
+
+三月 30, 2017 3:39:06 上午 simulation.Loader moveToNextStage
+INFO: Loader Bill has loaded the request HJ6P3UN.
+
+三月 30, 2017 3:39:06 上午 simulation.Loader moveToNextStage
+INFO: Loader Bill is ready for another loading request.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Loader Bill ready
+
+三月 30, 2017 3:39:06 上午 simulation.WarehouseSystem getWorkerReady
+INFO: Loader Bill is ready.
+
+三月 30, 2017 3:39:06 上午 simulation.Loader receiveTask
+INFO: Loader Bill receives the pallet with reqId: 6H5UYLR.
+
+三月 30, 2017 3:39:06 上午 simulation.Loader receiveTask
+INFO: Loader Bill receives the request 6H5UYLR.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Loader Bill loads 9
+
+三月 30, 2017 3:39:06 上午 simulation.Loader work
+INFO: Loader Bill has scanned the fascia 9.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Loader Bill loads 11
+
+三月 30, 2017 3:39:06 上午 simulation.Loader work
+INFO: Loader Bill has scanned the fascia 11.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Loader Bill loads 13
+
+三月 30, 2017 3:39:06 上午 simulation.Loader work
+INFO: Loader Bill has scanned the fascia 13.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Loader Bill loads 15
+
+三月 30, 2017 3:39:06 上午 simulation.Loader work
+INFO: Loader Bill has scanned the fascia 15.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Loader Bill loads 10
+
+三月 30, 2017 3:39:06 上午 simulation.Loader work
+INFO: Loader Bill has scanned the fascia 10.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Loader Bill loads 12
+
+三月 30, 2017 3:39:06 上午 simulation.Loader work
+INFO: Loader Bill has scanned the fascia 12.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Loader Bill loads 14
+
+三月 30, 2017 3:39:06 上午 simulation.Loader work
+INFO: Loader Bill has scanned the fascia 14.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Loader Bill loads 16
+
+三月 30, 2017 3:39:06 上午 simulation.Loader work
+INFO: Loader Bill has scanned the fascia 16.
+
+三月 30, 2017 3:39:06 上午 simulation.Loader moveToNextStage
+INFO: Loader Bill has loaded the request 6H5UYLR.
+
+三月 30, 2017 3:39:06 上午 simulation.Loader moveToNextStage
+INFO: Loader Bill is ready for another loading request.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Loader Bill ready
+
+三月 30, 2017 3:39:06 上午 simulation.WarehouseSystem getWorkerReady
+INFO: Loader Bill is ready.
+
+三月 30, 2017 3:39:06 上午 simulation.Loader receiveTask
+INFO: Loader Bill receives the pallet with reqId: 65GQJ2S.
+
+三月 30, 2017 3:39:06 上午 simulation.Loader receiveTask
+INFO: Loader Bill receives the request 65GQJ2S.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Loader Bill loads 17
+
+三月 30, 2017 3:39:06 上午 simulation.Loader work
+INFO: Loader Bill has scanned the fascia 17.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Loader Bill loads 19
+
+三月 30, 2017 3:39:06 上午 simulation.Loader work
+INFO: Loader Bill has scanned the fascia 19.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Loader Bill loads 21
+
+三月 30, 2017 3:39:06 上午 simulation.Loader work
+INFO: Loader Bill has scanned the fascia 21.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Loader Bill loads 23
+
+三月 30, 2017 3:39:06 上午 simulation.Loader work
+INFO: Loader Bill has scanned the fascia 23.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Loader Bill loads 18
+
+三月 30, 2017 3:39:06 上午 simulation.Loader work
+INFO: Loader Bill has scanned the fascia 18.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Loader Bill loads 20
+
+三月 30, 2017 3:39:06 上午 simulation.Loader work
+INFO: Loader Bill has scanned the fascia 20.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Loader Bill loads 22
+
+三月 30, 2017 3:39:06 上午 simulation.Loader work
+INFO: Loader Bill has scanned the fascia 22.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Loader Bill loads 24
+
+三月 30, 2017 3:39:06 上午 simulation.Loader work
+INFO: Loader Bill has scanned the fascia 24.
+
+三月 30, 2017 3:39:06 上午 simulation.Loader moveToNextStage
+INFO: Loader Bill has loaded the request 65GQJ2S.
+
+三月 30, 2017 3:39:06 上午 simulation.Loader moveToNextStage
+INFO: Loader Bill is ready for another loading request.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Loader Bill ready
+
+三月 30, 2017 3:39:06 上午 simulation.WarehouseSystem getWorkerReady
+INFO: Loader Bill is ready.
+
+三月 30, 2017 3:39:06 上午 simulation.Loader receiveTask
+INFO: Loader Bill receives the pallet with reqId: 25TDT6B.
+
+三月 30, 2017 3:39:06 上午 simulation.Loader receiveTask
+INFO: Loader Bill receives the request 25TDT6B.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Loader Bill loads 25
+
+三月 30, 2017 3:39:06 上午 simulation.Loader work
+INFO: Loader Bill has scanned the fascia 25.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Loader Bill loads 27
+
+三月 30, 2017 3:39:06 上午 simulation.Loader work
+INFO: Loader Bill has scanned the fascia 27.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Loader Bill loads 29
+
+三月 30, 2017 3:39:06 上午 simulation.Loader work
+INFO: Loader Bill has scanned the fascia 29.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Loader Bill loads 31
+
+三月 30, 2017 3:39:06 上午 simulation.Loader work
+INFO: Loader Bill has scanned the fascia 31.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Loader Bill loads 26
+
+三月 30, 2017 3:39:06 上午 simulation.Loader work
+INFO: Loader Bill has scanned the fascia 26.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Loader Bill loads 28
+
+三月 30, 2017 3:39:06 上午 simulation.Loader work
+INFO: Loader Bill has scanned the fascia 28.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Loader Bill loads 30
+
+三月 30, 2017 3:39:06 上午 simulation.Loader work
+INFO: Loader Bill has scanned the fascia 30.
+
+三月 30, 2017 3:39:06 上午 simulation.Simulation startSimulation
+INFO: INPUT: Loader Bill loads 32
+
+三月 30, 2017 3:39:06 上午 simulation.Loader work
+INFO: Loader Bill has scanned the fascia 32.
+
+三月 30, 2017 3:39:06 上午 simulation.Loader moveToNextStage
+INFO: Loader Bill has loaded the request 25TDT6B.
+
+三月 30, 2017 3:39:06 上午 simulation.Loader moveToNextStage
+INFO: Loader Bill is ready for another loading request.
+

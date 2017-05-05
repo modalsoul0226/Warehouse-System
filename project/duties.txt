@@ -1,0 +1,34 @@
+Name: Xinze Zhao UTORid: zhaoxi87
+* Came up with the design our group used for this project.
+* Actively participated in group discussions and came up with final version of the design
+  using teammates' opinions.
+* Wrote most of the methods. Helped other teammates by suggesting different ways to solve
+  some problems in coding.
+* Wrote clear instructions on how to compile and run the code in help.txt.
+* Wrote some of the javadoc.
+  For phase 2:
+* Changed some of the code in order to let the system handle the pick wrong events.
+* Added some of the loggers to log system messages.
+* Enabled our code to accept command-line arguments and updated the help.txt.
+
+Name: Young Bae Suk UTORid: sukyoun1
+* came up with a design for the project and compared it with my teamates' design
+* gave suggestions and ideas on how to make the design cleaner.
+* read through the code and added javadocs and made sure nothing is wrong or missing
+* helped writing the unit test
+* drew the uml diagram
+
+Name: Baizun Shan UTORid£∫shanbaiz
+* came up with my own design for the project for my group to discuss and compare.
+* drew the CRC cards so that we have a guideline when we code.
+* Wrote some of the methods.
+* made some improvements to get rid of code smells.
+* Wrote the unit tests for the project.
+
+Name: Yecheng Song
+* Came up with a design to compare with group members. 
+* Pointed out problems from our group’s design for better style and correctness. 
+* Helped coding by suggesting the things that might go wrong with the design and how to fix them. 
+* added and formatted javadocs.
+* Wrote the unit tests
+* helped with drawing the uml. 
